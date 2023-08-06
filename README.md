@@ -1,2 +1,2 @@
 # GuitarToolsMiniProgram
-吉他小工具，联系音律
+吉他小工具，联系基础知识
